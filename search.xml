@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Hello Blog]]></title>
     <url>%2F2019%2F07%2F04%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[计机的开始总是献给Hello World哈哈哈！ 博客搭建于2019年7月4日，基于Hexo+github pages，没有什么技术含量的过程。不用像托管在服务器那样经历什么千辛万苦，但是却因为各种原因折腾了好几天。一开始是为搭建方式考虑，再到后来为选择哪个主题犹豫不决，甚至连选择我的哪个github账号都能纠结半天…有时候真的很为自己的选择困难症和重度强迫症感到痛苦，做很多事情，更多的时间都是花在工具的选择而不是使用上。这看起来就是本末倒置，事后总会为自己为简单的事情浪费时间自责！ 其实很早之前就有搭个博客的想法，有个比较私人的空间。尤其是这学期以来已经下定决心未来从事IT，就觉得更有必要记录一下自己一步一步的学习路程。不过也不限于学习上的事，还可以记录一下生活上的方方面面。像朋友圈，很多话发现现在其实已经没办法说出口，以后或许可以在这里说说哈哈！ 作为一个技术小白，没指望自己能写出多有技术含量的博文，更多是记录吧。目前博客还有很多地方没有完善，样式方面也还不是很满意，但不影响正常使用，这些就以后慢慢完善了。暂时也还没有挂上域名的打算，就先这样用着… 第一次写博客，希望未来能够一直坚持下去吧！ 2019.07.07]]></content>
       <categories>
         <category>随笔</category>
       </categories>
